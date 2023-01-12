@@ -6,10 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello world with GitHub!");
 		//added string for Chg-1
 		//added string for TST2
-<<<<<<< HEAD
-=======
 		//added string TEST
->>>>>>> refs/heads/master
+		//added string TEST3
 	}
 
 }
