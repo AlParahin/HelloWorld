@@ -5,7 +5,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world with GitHub!");
 		//added string for Chg-1
-		//added string for TST2
+		//added string for TST22
 		//added string TEST
 		//added string TEST3
 	}
